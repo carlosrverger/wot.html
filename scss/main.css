@@ -11691,7 +11691,7 @@ footer {
 
 /*FOTOS FONDO*/
 .serviciosImage {
-  background-image: url("/files/rototom1.jpg");
+  background-image: url("/..files/rototom1.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -11700,7 +11700,7 @@ footer {
 }
 
 .indexImage {
-  background-image: url("/files/publico1.jpg ");
+  background-image: url("/..files/publico1.jpg ");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -11709,7 +11709,7 @@ footer {
 }
 
 .fotoBooking {
-  background-image: url("/files/caracol1.jpg");
+  background-image: url("/..files/caracol1.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -11717,7 +11717,7 @@ footer {
 }
 
 .latamFoto {
-  background-image: url("/files/dalia,wide 1.jpg");
+  background-image: url("/..files/dalia,wide 1.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -11725,7 +11725,7 @@ footer {
 }
 
 .fotoGaleria {
-  background-image: url("/files/JoyMadrid1.jpg");
+  background-image: url("/..files/JoyMadrid1.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -11733,7 +11733,7 @@ footer {
 }
 
 .fotoAbout {
-  background-image: url("/files/fotocalle1.jpg");
+  background-image: url("/..files/fotocalle1.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
