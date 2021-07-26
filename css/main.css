@@ -7645,7 +7645,7 @@ footer {
   background-position: top; }
 
 .indexImage {
-  background-image: url("/..files/publico1.jpg ");
+  background-image: url("/files/publico1.jpg ");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -7653,28 +7653,28 @@ footer {
   background-position: top; }
 
 .fotoBooking {
-  background-image: url("/..files/caracol1.jpg");
+  background-image: url("/files/caracol1.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
   background-attachment: fixed; }
 
 .latamFoto {
-  background-image: url("/..files/dalia,wide 1.jpg");
+  background-image: url("/files/dalia,wide 1.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
   background-attachment: fixed; }
 
 .fotoGaleria {
-  background-image: url("/..files/JoyMadrid1.jpg");
+  background-image: url("/files/JoyMadrid1.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
   background-attachment: fixed; }
 
 .fotoAbout {
-  background-image: url("/..files/fotocalle1.jpg");
+  background-image: url("/files/fotocalle1.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
