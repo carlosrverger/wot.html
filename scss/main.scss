@@ -127,13 +127,7 @@ $theme-colors: ("primary": $primary,
   transition: height 3s, width 3s;
 }
 
-.row {
-  border: 2px solid rgba(255, 0, 0, 0);
-}
 
-.col {
-  border: 2px solid rgba(255, 0, 0, 0);
-}
 
 .home:hover {
   background-color: $home2;
