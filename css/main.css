@@ -7527,10 +7527,10 @@ textarea.form-control-lg {
   transition: height 3s, width 3s; }
 
 .row {
-  border: 2px solid red; }
+  border: 2px solid rgba(255, 0, 0, 0); }
 
 .col {
-  border: 2px solid red; }
+  border: 2px solid rgba(255, 0, 0, 0); }
 
 .home:hover {
   background-color: rgba(0, 255, 255, 0.295);

@@ -128,11 +128,11 @@ $theme-colors: ("primary": $primary,
 }
 
 .row {
-  border: 2px solid rgb(255, 0, 0);
+  border: 2px solid rgba(255, 0, 0, 0);
 }
 
 .col {
-  border: 2px solid rgb(255, 0, 0);
+  border: 2px solid rgba(255, 0, 0, 0);
 }
 
 .home:hover {
