@@ -7810,3 +7810,8 @@ footer {
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: center; }
+
+#curriculum {
+  margin-bottom: 6rem;
+  display: flex;
+  flex-direction: column; }
