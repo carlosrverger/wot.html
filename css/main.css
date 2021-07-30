@@ -7504,6 +7504,9 @@ textarea.form-control-lg {
   margin: 0%;
   padding: 0%; }
 
+.row {
+  border: solid red 1px; }
+
 .home {
   background-color: #011216;
   height: 35px;
@@ -7719,10 +7722,10 @@ footer {
     text-align: conter; }
   #cajaTitulo {
     width: 100vw;
-    height: 14rem; }
+    height: 12rem; }
   .subTitulo {
     font-size: 1.3rem;
-    margin-top: -130px;
+    margin-top: -100px;
     margin-bottom: 60px; }
   #fotosCarrusel1 {
     margin-top: 15px;
@@ -7812,8 +7815,3 @@ footer {
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: center; }
-
-#curriculum {
-  margin-bottom: 6rem;
-  display: flex;
-  flex-direction: column; }
