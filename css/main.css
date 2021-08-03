@@ -7660,18 +7660,6 @@ footer {
   height: 120px;
   width: 80vw; }
 
-.varios {
-  display: flex;
-  background-color: rgba(0, 139, 139, 0.473);
-  flex-direction: row;
-  align-items: center;
-  justify-content: center;
-  font-family: 'Oswald', sans-serif;
-  font-size: xx-large;
-  color: #00d9ff;
-  border: solid #0e5d63;
-  margin-left: 0px; }
-
 /*med3ia cel*/
 @media (min-width: 100px), (max-width: 576px) {
   #ruta {
