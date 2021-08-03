@@ -99,44 +99,6 @@ $theme-colors: ("primary": $primary,
 
 
 
-.home {
-
-  background-color: $home;
-  height: 35px;
-  width: 80px;
-  font-family: 'Oswald', sans-serif;
-  font-size: x-large;
-  letter-spacing: 5px;
-  margin-top: 0px;
-  margin-left: 0px;
-  border-radius: 10px;
-}
-
-
-.home a {
-  color: rgb(95, 236, 225);
-  text-decoration: none;
-  margin-left: 10px;
-
-}
-
-.home:hover {
-  background-color: rgba(0, 255, 255, 0.295);
-  height: 45px;
-  width: 90px;
-  transition: height 3s, width 3s;
-}
-
-
-
-.home:hover {
-  background-color: $home2;
-  height: 45px;
-  width: 90px;
-  transition: height 3s, width 3s;
-
-}
-
 
 /*caja azul interna*/
 
@@ -228,11 +190,12 @@ $theme-colors: ("primary": $primary,
   font-family: 'Oswald', sans-serif;
   font-size: 20px;
   letter-spacing: 5px;
-
-
-
-
 }
+
+/*navgador secciones*/
+
+
+
 
 /*FOOTER*/
 
@@ -499,14 +462,15 @@ color: aliceblue; }
 
   }
 
+  nav{
+    margin-top: -1.5rem;
+  }
+
   .home{
     margin-top: 10px;
   }
 
-  nav {
-    
-    margin-top: 90px;
-  }
+  
   .redesTexto {
     font-size: 1.5rem;
     }

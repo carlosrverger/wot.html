@@ -7504,34 +7504,6 @@ textarea.form-control-lg {
   margin: 0%;
   padding: 0%; }
 
-.home {
-  background-color: #011216;
-  height: 35px;
-  width: 80px;
-  font-family: 'Oswald', sans-serif;
-  font-size: x-large;
-  letter-spacing: 5px;
-  margin-top: 0px;
-  margin-left: 0px;
-  border-radius: 10px; }
-
-.home a {
-  color: #5fece1;
-  text-decoration: none;
-  margin-left: 10px; }
-
-.home:hover {
-  background-color: rgba(0, 255, 255, 0.295);
-  height: 45px;
-  width: 90px;
-  transition: height 3s, width 3s; }
-
-.home:hover {
-  background-color: rgba(0, 255, 255, 0.295);
-  height: 45px;
-  width: 90px;
-  transition: height 3s, width 3s; }
-
 /*caja azul interna*/
 #caja {
   list-style-type: none;
@@ -7579,6 +7551,7 @@ textarea.form-control-lg {
   font-size: 20px;
   letter-spacing: 5px; }
 
+/*navgador secciones*/
 /*FOOTER*/
 footer {
   display: flex;
@@ -7755,10 +7728,10 @@ footer {
   .subTitulo {
     font-size: 2rem;
     margin-top: -30px; }
+  nav {
+    margin-top: -1.5rem; }
   .home {
     margin-top: 10px; }
-  nav {
-    margin-top: 90px; }
   .redesTexto {
     font-size: 1.5rem; }
   .fa-facebook,
