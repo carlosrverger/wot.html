@@ -7673,38 +7673,44 @@ footer {
 /*med3ia cel*/
 @media (min-width: 100px), (max-width: 576px) {
   #ruta {
-    height: 100%; }
-  .home {
-    margin-top: -20px;
-    margin-left: 7.5rem; }
-  .titulo {
-    font-size: 3.8rem;
-    margin-bottom: 3.5rem;
-    letter-spacing: 3px;
-    text-align: conter; }
-  #cajaTitulo {
-    width: 100vw;
-    height: 12rem; }
-  .subTitulo {
-    font-size: 1.3rem;
-    margin-top: -100px;
-    margin-bottom: 60px; }
-  #fotosCarrusel1 {
-    margin-top: 15px;
-    margin-bottom: 5.5rem; }
-  .nft {
-    margin-bottom: 5rem; }
-  #caja {
-    margin-left: 4rem; }
-  .redesTexto {
-    font-size: 1rem; }
-  .fa-facebook,
-  .fa-twitter,
-  .fa-instagram-square {
-    font-size: 100%;
-    color: aliceblue; }
-  .varios {
-    margin-top: 5px; } }
+    height: 100%; } }
+
+.titulo {
+  font-size: 3.1rem;
+  margin-bottom: 3.5rem;
+  letter-spacing: 3px;
+  text-align: conter; }
+
+#cajaTitulo {
+  width: 100vw;
+  height: 8rem; }
+
+.subTitulo {
+  font-size: 1.3rem;
+  margin-top: -7rem;
+  margin-bottom: 2.8rem; }
+
+#fotosCarrusel1 {
+  margin-top: 15px;
+  margin-bottom: 5.5rem; }
+
+.nft {
+  margin-bottom: 5rem; }
+
+#caja {
+  margin-left: 4rem; }
+
+.redesTexto {
+  font-size: 1rem; }
+
+.fa-facebook,
+.fa-twitter,
+.fa-instagram-square {
+  font-size: 100%;
+  color: aliceblue; }
+
+.varios {
+  margin-top: 5px; }
 
 /*media tablet*/
 @media (min-width: 576px), (max-width: 1200) {
@@ -7721,13 +7727,13 @@ footer {
     margin-top: -2.5rem;
     margin-bottom: 0.9rem; }
   .titulo {
-    margin-bottom: -15px;
+    margin-bottom: 0rem;
     font-size: 4.6rem; }
   .subTitulo {
     font-size: 2rem;
-    margin-top: -30px; }
+    margin-top: -2.8rem; }
   nav {
-    margin-top: -2.5rem; }
+    margin-top: -2.2rem; }
   .home {
     margin-top: 10px; }
   .redesTexto {
