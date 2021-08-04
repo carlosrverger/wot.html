@@ -207,7 +207,8 @@ $theme-colors: ("primary": $primary,
 /*FOOTER*/
 
 footer {
-
+  
+  height: 8rem;
   display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
@@ -215,33 +216,10 @@ footer {
   background-color: rgba(0, 31, 43, 0.5);
   border: rgba(3, 53, 68, 0.473) solid 1px;
   background-image: linear-gradient(to left, rgba(1, 27, 37, 0.219), rgba(2, 173, 252, 0.226));
-
-
 }
 
 
-.redesTexto {
-  border-radius: 10px;
-  letter-spacing: 3px;
-  font-family: 'Oswald', sans-serif;
-  color: rgba(240, 248, 255, 0.692);
-  font-size: 28px;
-  background-color: rgba(2, 31, 48, 0);
-  padding: 10px;
-  margin-top: 12px;
-}
 
-.redesTexto {
-
-  animation-name: redes;
-  animation-iteration-count: infinite;
-  animation-timing-function: cubic-bezier(0.075, 0.82, 0.165, 1);
-  animation-duration: 5s;
-  animation-delay: 2ms;
-
-
-
-}
 
 /*FOOTER ANIMACION*/
 @keyframes redes {
@@ -401,7 +379,7 @@ footer {
 
   #fotosCarrusel1{
     margin-top: 15px;
-    margin-bottom: 5.5rem;}
+    margin-bottom: 9rem;}
   
  .nft{
    margin-bottom: 5rem;
